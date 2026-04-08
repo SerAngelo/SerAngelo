@@ -2,13 +2,13 @@
 
 ```text
 ~/about $ whoami
-─────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────────────────────
   role     Graduating MSc student in experimental astroparticle Physics at Sapienza University of Rome
   group    DarkSide-20k
   topic    SiPM characterization, simulation, event reconstruction
   toolkit  Python, C++, C, bash, ROOT  
   os       Arch Linux user
-─────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
 
 #### 🐧 Free software & open science
