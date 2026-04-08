@@ -11,14 +11,6 @@
 ─────────────────────────────────────────────
 ```
 
-#### 🔬 What I work on
-- **Detector response models** for SiPMs: fingerplot fitting, cross-talk
-  (DiCT / DeCT / ECT), afterpulses, DCR, PDE.
-- **Monte Carlo simulations** of SiPM pulses, including branching-process
-  cascades, bi-exponential shapes and gate-integration logic.
-- **Bayesian inference** with JAX + NumPyro for charge-spectrum fits.
-- Matched-filter pipelines for multi-channel waveform readout.
-
 #### 🐧 Free software & open science
 
 I'm convinced that **free software** and **open science** are the same idea
