@@ -3,10 +3,10 @@
 ```text
 ~/about $ whoami
 ─────────────────────────────────────────────
-  role     MSc student in Physics at Sapienza University of Rome
+  role     Graduating MSc student in experimental astroparticle Physics at Sapienza University of Rome
   group    DarkSide-20k
   topic    SiPM characterization, simulation, event reconstruction
-  tools    Python · C++ · C · bash 
+  toolkit  Python, C++, C, bash, ROOT  
   os       Arch Linux user
 ─────────────────────────────────────────────
 ```
