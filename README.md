@@ -20,9 +20,9 @@ depending on context) and try, whenever possible, to keep my workflow free
 end-to-end.
 
 #### 📫 Get in touch
-- 🌐 Website: *(https://serangelo.github.io/)*
-- ✉️ Email: *(serrecchia.1919476@studenti.uniroma1.it)*
-- 🪐 ORCID: *(https://orcid.org/0009-0000-8891-308X))*
+- 🌐 Website: *https://serangelo.github.io/*
+- ✉️ Email: *serrecchia.1919476@studenti.uniroma1.it*
+- 🪐 ORCID: *https://orcid.org/0009-0000-8891-308X*
 
 ---
 
