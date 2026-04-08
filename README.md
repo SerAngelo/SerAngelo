@@ -1,4 +1,4 @@
-### Hi there, I'm Angelo 👋
+### Hi there, I'm Angelo
 
 ```text
 ~/about $ whoami
