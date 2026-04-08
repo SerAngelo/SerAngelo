@@ -1,4 +1,38 @@
-## Hi there 👋
+### Hi there, I'm Angelo 👋
+
+```text
+~/about $ whoami
+─────────────────────────────────────────────
+  role     MSc student in Physics at Sapienza University of Rome
+  group    DarkSide-20k
+  topic    SiPM characterization, simulation, event reconstruction
+  tools    Python · C++ · C · bash 
+  os       Arch Linux user
+─────────────────────────────────────────────
+```
+
+#### 🔬 What I work on
+- **Detector response models** for SiPMs: fingerplot fitting, cross-talk
+  (DiCT / DeCT / ECT), afterpulses, DCR, PDE.
+- **Monte Carlo simulations** of SiPM pulses, including branching-process
+  cascades, bi-exponential shapes and gate-integration logic.
+- **Bayesian inference** with JAX + NumPyro for charge-spectrum fits.
+- Matched-filter pipelines for multi-channel waveform readout.
+
+#### 🐧 Free software & open science
+
+I'm convinced that **free software** and **open science** are the same idea
+applied to two different domains: the right to understand, verify and improve
+what we use. That's why I release my code under free licenses (GPL / MIT
+depending on context) and try, whenever possible, to keep my workflow free
+end-to-end.
+
+#### 📫 Get in touch
+- 🌐 Website: *(https://serangelo.github.io/)*
+- ✉️ Email: *(serrecchia.1919476@studenti.uniroma1.it)*
+- 🪐 ORCID: *(https://orcid.org/0009-0000-8891-308X))*
+
+---
 
 <!--
 **SerAngelo/SerAngelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
